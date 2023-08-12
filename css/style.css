@@ -85,7 +85,7 @@ nav ul li a:hover{
 }
 
 .main2{
-    background: url("/img/main img.png");
+    background: url("../img/main img.png");
     background-color: black;
     background-size: 100vw 118vh;
     background-repeat: no-repeat;
@@ -212,7 +212,7 @@ nav ul li a:hover{
     /* background: rgb(163, 120, 39); */
     margin-top: 100px;
     height: 420vh;
-    background-image: url(/img/both\ cut.png), url(/img/both\ cut2.png);
+    background-image: url(../img/both\ cut.png), url(../img/both\ cut2.png);
     background-size: 100vw 182vh, 100vw 130vh;
     background-position: 0px 0px, 0px 228vh;
     background-repeat: no-repeat;
@@ -231,7 +231,7 @@ nav ul li a:hover{
 }
 
 .mid .cter{
-    background-image: url("/img/ct.png");
+    background-image: url("../img/ct.png");
     background-position: 160px 100px;
     background-repeat: no-repeat;
     padding-top: 40px;
@@ -273,7 +273,7 @@ nav ul li a:hover{
 }
 
 .mid .ter{
-    background-image:  url("/img/image\ 4.png");
+    background-image:  url("../img/image\ 4.png");
     background-position: 0px 60px;
     background-repeat: no-repeat;
     margin-top: -430px;
@@ -322,7 +322,7 @@ nav ul li a:hover{
 }
 
 .mid .maps{
-    background: url("/img/the\ shading.png"), url("/img/mback.png");
+    background: url("../img/the\ shading.png"), url("../img/mback.png");
     background-repeat: no-repeat;
     background-size: 1670px 1330.421px, 1086px 603px;
     background-position: 0px -403px, 260px 0px;
@@ -363,7 +363,7 @@ nav ul li a:hover{
     width: 1295px;
     height: 522px;
     flex-shrink: 0;
-    background: url("/img/the\ shading1.png"),url("/img/mmback.png");
+    background: url("../img/the\ shading1.png"),url("../img/mmback.png");
     background-repeat: no-repeat;
     background-size: 1295px 513px, 1010px 522px;
     background-position: 50px 0px, 100px 0px;
